@@ -1,1 +1,142 @@
+body{
+  background-color:rgb(219, 250, 129);
+}
 
+.title{
+  text-align:center;
+  color:rgb(147, 198, 0);
+  font-size:60px;  
+  text-decoration:underline;
+}
+.Introduction_to_Javascript{
+  float:left;
+  border:2px solid rgb(182, 244, 0);
+  width:70%;
+  height:300px;
+  overflow:auto;
+  background-color:rgb(206, 248, 85);
+  font-size:24px;
+  line-height:35px;
+}
+
+.photo_introduction{
+  float:left;
+  width:315px;
+  height:200px;
+  margin:10px;  
+}
+
+.slider{
+  float:right;
+  border:2px solid rgb(182,244,0);
+  width:28%;
+  padding-top:20px;
+  height:550px;
+  background-color:rgb(206, 248, 85);
+  text-align:center;
+  overflow:auto;
+}
+
+.slider_photo{
+  width:90%;
+  height:150px;
+}
+#title_slider{
+  font-size:30px;
+  text-decoration:underline;
+}
+.slider_text{
+  font-size:20px;
+  text-align:left;
+  margin-left:10px;
+  margin-right:5px;
+  line-height:25px;
+}
+
+.list{
+  padding-top:310px; 
+}
+li{
+  font-size:22px;   
+  }
+
+.libraries{
+  text-align:center;
+}
+
+.jQuery{
+ border:2px solid;
+  
+}
+
+.jQuery_image{
+  width:100%;
+  height:405px;
+  position:absolute;
+  z-index:1;
+}
+.jQuery_prg{
+  position:relative;
+  z-index:2;
+  font-size:1.2em;
+  font-family:cursive;
+}
+
+.table{
+  text-align:center;
+}
+table{
+  margin-left:40%;
+}
+
+thead tr th{
+  color:rgb(147, 198, 0);
+  border:2px light;
+  border-style:dotted solid solid dotted;
+}
+
+tbody tr{
+  color:rgb(147, 198, 0);
+}
+
+tbody tr td{
+  border:2px light;
+  border-style:dotted solid solid dotted;
+}
+
+td img{
+  width:35px;
+  height:35px;
+}
+
+
+.footer{
+  margin-top:40px;
+  border:2px inset rgb( 147, 198, 0);
+  border-radius:20%;
+}
+.img_facebook{
+  width:35px;
+}
+
+.back{
+  border:2px inset rgb( 147, 198, 0);
+  border-radius:20%;
+  float:right;
+  margin-top:20px;
+  padding:5px;
+}
+.text_shadow{
+  text-shadow:10px 10px white;
+  font-family:monospace;
+  font-style:italic;
+}
+
+a:hover{
+  text-decoration:none;
+}
+
+a:visited{
+  text-decoration:none;
+  color:rgb(100, 244, 0);
+}
