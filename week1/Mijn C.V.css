@@ -1,0 +1,55 @@
+header{
+    text-align: center;
+    font-size: 1.3em;
+    text-decoration: underline;
+    text-shadow: 5px 5px 9px;
+}
+
+.mainText{
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: 5px 5px 4px;
+
+}
+Data{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+img{
+    float: right;
+    margin: 20px 20px 20px 20px;
+}
+
+.text{
+    clear: both;
+    font-family: calibri;
+    font-size: 16px;
+}
+
+.border{
+    margin-top: 60px;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-radius: 10%;
+    padding-bottom: 20px;
+    width:78%;
+}
+
+.pargraph{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+ul li{
+    font-size: 25px;
+}
+
+dl dt{
+    font-size: 25px;  
+}
+
+footer{
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+}
